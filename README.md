@@ -58,6 +58,7 @@ Jackson Core.
 Подключение настроек в классе MyConfig с помощью Java Code.
 Общение с REST Service через класс Communication, Get/Post/Put/Delete.
 C помощью аннотаций.
+
 	1/5
 	Продолжение изучения Spring:
      Spring Security.
