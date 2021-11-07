@@ -1,4 +1,5 @@
     Spring Framework, по шагам, согласно курса Udemy.
+    
 	1/1 Знакомство с Framework:
 - Inversion of Control; Dependency Injection (с помощью конструктора, сеттера и прочее); Propertes files; Bean scope, методы init и destroy; Конфигурации (с помощью аннотаций, Java code и @PropertySource); АОР (Аспектно-ориентированное программирование); Advice.
 	Знакомство с Framework Hibernate:
